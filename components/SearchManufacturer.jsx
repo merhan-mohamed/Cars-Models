@@ -3,7 +3,7 @@
 import {Combobox,  ComboboxInput, ComboboxOption, ComboboxOptions } from '@headlessui/react';
 import Image from "next/image"
 import { useState } from 'react';
-import {manufacturers} from "../../constants/index"
+import {manufacturers} from "../../constants/data"
 
 
 const SearchManufacturer = ({manufacturer, setManufacturer} ) => {
