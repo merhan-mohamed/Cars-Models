@@ -1,7 +1,7 @@
 
 import { Hero, SearchBar, CustomFilter, CarCard, SearchManufacturer, ShowMore  } from "@/components";
 import { FetchCars } from "../../utilis/info.js";
-import {fuels, yearsOfProduction} from "../../constants/data.jsx";
+import {fuels, yearsOfProduction} from "../../constants/Data.jsx";
 
 
 
