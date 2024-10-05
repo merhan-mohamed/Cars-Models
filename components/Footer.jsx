@@ -1,6 +1,6 @@
 
 import Image from "next/image";
-import {footerLinks} from "../../constants/Data.jsx"
+import {footerLinks} from "../../constants/Data.js"
 import Link from "next/link";
 
 const Footer = () => {
