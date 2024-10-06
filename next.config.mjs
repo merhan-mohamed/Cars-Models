@@ -3,7 +3,7 @@ const nextConfig = {
     images: {
         domains: [""]
     },
-    ignoreDuringBuilds: true, 
+
 };
 
 export default nextConfig;
